@@ -34,8 +34,7 @@
     <img aling="center" alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
     <img aling="center" alt="jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
     <img aling="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img aling="center" alt="jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-        <img aling="center" alt="Zabbix" src="https://img.shields.io/badge/Zabbix-EA1D2C?style=for-the-badge&logoColor=white">
+    <img aling="center" alt="Zabbix" src="https://img.shields.io/badge/Zabbix-EA1D2C?style=for-the-badge&logoColor=white">
 </div>
 
 ### 🌱 Interesse:
