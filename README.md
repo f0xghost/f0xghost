@@ -1,50 +1,42 @@
-### Olá! Eu sou o Isaque, Certificado pela AWS como AWS Certified Cloud Practitioner e pela solyd como WIRELESS PENTESTER - SYWP.
+# Olá! Eu sou o Isaque
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaque_santos228/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRnXmtxTQHBlNlrxmSxLHdNCQBsbZnddkzcJsGTShFXvNHdVsJGNKjBHrmxSDhpJkhghWmV)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-santos-9329b9332/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+Atualmente, atuo como Analista Jr e estou no 5º semestre de Engenharia da Computação. Possuo certificações **AWS Certified Cloud Practitioner** e **WIRELESS PENTESTER - SYWP**, além de estar em preparação para a certificação **SYCP**.  
+
+Tenho experiência em **DevOps**, **automação** e **integração contínua**, além de atuar na área de **cibersegurança** com foco em **pentest**. Também sou entusiasta de hardware, especialmente em projetos com **Arduino**.  
+
+## 📫 Contato  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-santos-9329b9332/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaque_santos228/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaquesantospereira228@gmail.com)  
+
+---
+
+## 📊 GitHub Stats  
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Isaque228&count_private=true&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Isaque228&count_private=true&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Isaque228&count_private=true&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Isaque228&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api?username=Isaque228&show_icons=true" />
 </picture>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque228&hide_progress=true) -->
+## ⚡ Tecnologias  
 
-## Conhecimento:
-<div style="display: inline_block"></br>
-    <img aling="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img aling="center" alt="arduino ide" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-    <img aling="center" alt="jenkins" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img aling="center" alt="jenkins" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img aling="center" alt="jenkins" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <img aling="center" alt="powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-    <img aling="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img aling="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-    <img aling="center" alt="kali-linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-    <img aling="center" alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
-    <img aling="center" alt="jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-    <img aling="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img aling="center" alt="Zabbix" src="https://img.shields.io/badge/Zabbix-EA1D2C?style=for-the-badge&logoColor=white">
-</div>
+#### 🖥️ Desenvolvimento  
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
-### 🌱 Interesse:
-- Engenharia da Computação - 3 de 10 períodos completos
+#### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)  
+![Zabbix](https://img.shields.io/badge/Zabbix-EA1D2C?style=for-the-badge&logoColor=white)  
 
-- Atualmente em preparação para a certificação SYCP
+#### 🛡️ Segurança  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
 
-- Desenvolvedor apaixonado por práticas DevOps, focado na integração contínua e automação de processos.
-
-- Entusiasta de hardware, especialmente em projetos com Arduino.
-
-- Entusiasta de cibersegurança com foco em pentest (teste de penetração) e experiência em Kali-Linux.
-
+#### ⚙️ Sistemas Operacionais  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
