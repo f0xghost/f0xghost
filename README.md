@@ -14,7 +14,7 @@ Aqui no GitHub compartilho projetos, estudos e ideias, sempre aberto a sugestõe
 
 ## 📊 GitHub Status
 
-![Isaque228's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaque228&show_icons=true&theme=radical&count_private=true&hide_title=true)
+![Isaque228's GitHub stats](https://github-readme-stats.vercel.app/api?username=f0xghost&show_icons=true&theme=radical&count_private=true&hide_title=true)
 
 ---
 > "Aprender, construir e transformar: três palavras que guiam minha jornada na tecnologia."
